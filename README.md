@@ -1,9 +1,4 @@
-## Hi there 👋
 
-<!--
-**nitish-kumar3/nitish-kumar3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <h1>  👋 Hi, I'm Nitish Kumar  </h1>
 - 👋 Hi, I’m nitish-kumar3
 - 👀 I’m interested in Full-Dtack Development.
