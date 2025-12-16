@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Full-Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-ayyj.vercel.app/](https://my-portfolio-ayyj.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://nitish-prajapati-portfolio.vercel.app/))
 
 - 💬 Ask me about **Full-Stack Development**
 
